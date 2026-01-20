@@ -94,6 +94,8 @@
 
 ჩასვით სურათი README.md ფაილში.
 
+<img src="preview.png/Screenshot 2026-01-20 at 14.49.52.png">
+
 ✅ მიღების კრიტერიუმები (Acceptance Criteria)
 
 დავალება ჩაითვლება მიღებულად, თუ:
